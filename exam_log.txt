@@ -1,0 +1,296 @@
+    1  clear
+    2  sudo update
+    3  sudo apt update
+    4  sudo apt upgrade
+    5  clear
+    6  sudo apt install neofetch
+    7  neofetch
+    8  clear
+    9  neofetch
+   10  exit
+   11  ls
+   12  exit
+   13  clear
+   14  pwd
+   15  cd ..
+   16  pwed
+   17  pwd
+   18  ls
+   19  clear
+   20  exit
+   21  wsl -d kali-linux
+   22  ccls
+   23  clear
+   24  exit
+   25  mkdir -p project/src/utils
+   26  cd project/src/utils
+   27  cd ../..
+   28  mv src source
+   29  rm -r source
+   30  touch file1.txt file2.txt file3.txt
+   31  cp file1.txt copy_of_file1.txt
+   32  clear
+   33  --terminate
+   34  -terminate
+   35  exit
+   36  mkdir -p project/src/utils
+   37  clear
+   38  exit
+   39  mkdir -p project/src/utils
+   40  cd project/src/utils
+   41  cd ../..
+   42  mv src source
+   43  clear
+   44  exit
+   45  mkdir -p project/src/utils
+   46  cd project/src/utils
+   47  cd ../..
+   48  mv src source
+   49  rm -r source
+   50  cls
+   51  clear
+   52  exit
+   53  mkdir -p project/src/utils
+   54  cd project/src/utils
+   55  cd ../..
+   56  mv src source
+   57  rm -r source
+   58  exit
+   59  clear
+   60  exit
+   61  clear
+   62  exit
+   63  clear
+   64  exit
+   65  cls
+   66  clear
+   67  exit
+   68  mkdir -p project/src/utils
+   69  cd project/src/utils
+   70  cd ../..
+   71  mv src source
+   72  rm -r source
+   73  cleaar
+   74  clear
+   75  xit
+   76  exit
+   77  sudo help
+   78  sodlo list -help
+   79  sudo list -help
+   80  clear
+   81  sudo list
+   82  clear
+   83  exit
+   84  help
+   85  clear
+   86  exit
+   87  sh git  init
+   88  exit
+   89  git init
+   90  pwd
+   91  mkdir project
+   92  cls
+   93  clear
+   94  git init
+   95  pwd
+   96  mkdir project2024
+   97  cd project2024
+   98  touch example.txt
+   99  touch example.py
+  100  git add project.py
+  101  cls
+  102  cler
+  103  cleqr
+  104  clear
+  105  exit
+  106  git  iit
+  107  git init
+  108  pwd
+  109  mkdir project2024
+  110  cd project2024
+  111  touch example.txt
+  112  touch project.py
+  113  git add  ptoject.py
+  114  git commit -m "Initial commit with project.py"
+  115  git config--global user.email "fionazeinguerzon@gmal.com"
+  116  git  config --global user.nam "zieeow"
+  117  git commit -m "Initial commit with project.py"
+  118  cls
+  119  clear
+  120  git init
+  121  cls
+  122  cleara
+  123  clear
+  124  exit
+  125  git init
+  126  pwd
+  127  mkdir project2024
+  128  cls
+  129  clear
+  130  git init
+  131  pwd
+  132  mkdir project2024
+  133  clear
+  134  git init
+  135  pwd
+  136  mkdir project2024
+  137  clear
+  138  git init
+  139  pwd
+  140  mkdir project2024
+  141  cd project2024
+  142  touch example.txt
+  143  touch project.py
+  144  git add project.py
+  145  git commit -m "Initial commit with project.py"
+  146  git config --global user.email "fionazeinguerzon@gmail.com"
+  147  git config --global user.nam "zieeow"
+  148  git commit -m "Initial commit with project.py"
+  149  git add example.txt
+  150  git remote add origin https://github.com/zieeow/project2024.git
+  151  git push -u origin master
+  152  git remote add origin https://github.com//zieeow/git2024.git
+  153  clear
+  154  git init
+  155  pwd
+  156  mkdir project2024
+  157  cd project2024
+  158  touch example.txt
+  159  git add project.py
+  160  git commit -m "Initial commit with project.py"
+  161  git config --global user.email "fionazeinguerzon@gmail.com"
+  162  git config --global user.name "zieeow"
+  163  git commit -m "Initial commit with project.py"
+  164  git add example.txt
+  165  git commit -m "Initial commit with example.txt"
+  166  git remote add origin https://github.com/zieeow/git2024.git
+  167  git push -u origin master
+  168  git clone https://github.com/zieeow
+  169  cat example.txt
+  170  git add
+  171  git add example.txt
+  172  git push
+  173  git pull
+  174  git pull  origin master
+  175  git pull origin master
+  176  clear
+  177  git init
+  178  clear
+  179  exit
+  180  git init
+  181  pwd
+  182  mkdir guerzon1
+  183  cd guerzon1
+  184  touch example.txt
+  185  git add guerzon1.py
+  186  git add project.py
+  187  git commit -m "Initial commit with project.py"
+  188  git add project.py
+  189  git commit -m "Initial commit with project.py"
+  190  clear
+  191  exit
+  192  git init
+  193  pwd
+  194  mkdir project2024
+  195  mkdir guerzon1
+  196  cleaar
+  197  clear
+  198  exit
+  199  sudo apt install default-jdk
+  200  sudo apt install python3
+  201  sudo apt install php php-mysql
+  202  sudo apt install mysql-server
+  203  sudo apt install apache2
+  204  cd /var/www/html
+  205  sudo nano phpinfo.php 
+  206  sudo apt update
+  207  sudo apt upgrade
+  208  cd /var/www/html 
+  209  sudo apt install php libapache2-mod-php php-mysql 
+  210  cd /var/www/html 
+  211  sudo nano phpinfo.php 
+  212  sudo mysql_secure_installation 
+  213  sudo mysql -u root -p 
+  214  sudo nano testmysql.php 
+  215  git clone https://github.com/zieeow/236849995_Guerzon.git 
+  216  wsl -help
+  217  help
+  218  clear
+  219  help
+  220  clear
+  221  exit
+  222  ls
+  223  git
+  224  cd
+  225  ls
+  226  cd 236849995-GUERZON
+  227  cls
+  228  clear
+  229  git
+  230  cd 236849995-GUERZON
+  231  cd
+  232  clear
+  233  git
+  234  cd
+  235  ls
+  236  clear
+  237  git clone https://github.com/zieeow/236849995-GUERZON
+  238  cd
+  239  ls
+  240  cd 236849995-GUERZON
+  241  mkdir linux_practice
+  242  ls
+  243  cd liux_practice
+  244  touch notes.txt
+  245  echo "Hello, Linux!" >> notes.txt
+  246  head -n 1 notes.txt
+  247  tail -n 1 notes.txt
+  248  mkdir subdir
+  249  mv notes.txt subdir
+  250  ls
+  251  mv subdir practice_subdir
+  252  ls
+  253  cd practice_subdir
+  254  ls
+  255  cd
+  256  time date
+  257  times
+  258  df -t home
+  259  php --version
+  260  history
+  261  logout
+  262  git
+  263  cd 236849995-GUERZON
+  264  git checkout -b finalexam
+  265  history > exam_log.txt
+  266  git add . exam_log.txt
+  267  clear
+  268  cd 236849995-GUERZON
+  269  mkdir linux_practice
+  270  ls
+  271  cd linux_practice
+  272  touch notes.txt
+  273  echo "Hello, Linux!" >> notes.txt
+  274  cat notes.txt
+  275  echo "This is a practical exam." >> notes.txt
+  276  head -n 1 notes.txt
+  277  tail -n 1 notes.txt
+  278  mkdir subdir
+  279  mv notes.txt subdir
+  280  ls
+  281  mv subdir practice_subdir
+  282  ls
+  283  cd practice_subdir
+  284  ls
+  285  mv notes.txt linux_practice
+  286  ls
+  287  cd
+  288  time date
+  289  times
+  290  df -t home
+  291  git --version
+  292  history
+  293  logout
+  294  cd 236849995-GUERZON
+  295  git checkout -b finalexam
+  296  history > exam_log.txt
